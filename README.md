@@ -1,2 +1,27 @@
-# model
-postGRES database model for app-controller 
+<h1 align="center">Dro0m</h1>
+<p align="center">
+ <blockquote>a RoR + PostGreSQL data-store for the [Dro0m]() app</blockquote>
+ </p>
+ 
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
